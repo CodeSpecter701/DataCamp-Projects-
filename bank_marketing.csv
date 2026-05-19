@@ -1,0 +1,11 @@
+client_id,age,job,marital,education,credit_default,mortgage,number_contacts,contact_duration,previous_campaign_contacts,previous_outcome,campaign_outcome,day,month,cons_price_idx,euribor_three_months
+1,25,admin.,single,university.degree,no,yes,1,120,0,nonexistent,yes,5,may,93.2,1.25
+2,32,technician,married,high.school,yes,no,2,300,1,success,no,12,jun,92.8,1.1
+3,45,blue-collar,married,basic.9y,no,yes,3,150,2,failure,yes,20,jul,93.5,1.5
+4,29,services,single,unknown,no,no,1,200,0,success,no,7,aug,92.1,1.75
+5,41,management,divorced,professional.course,yes,yes,2,180,1,failure,yes,15,sep,94.0,1.3
+6,38,admin.,married,high.school,no,yes,4,250,3,success,no,10,may,93.1,1.4
+7,50,technician,single,basic.6y,no,no,2,90,0,nonexistent,yes,18,jun,92.9,1.2
+8,27,blue-collar,married,university.degree,yes,yes,1,400,2,failure,no,25,jul,93.6,1.6
+9,36,services,single,unknown,no,no,3,160,1,success,yes,3,aug,92.2,1.8
+10,44,management,divorced,professional.course,yes,yes,2,220,0,failure,no,30,sep,94.1,1.35
